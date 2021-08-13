@@ -1,0 +1,1 @@
+/home/andressa/robotica/TelepresenceRobot/ROS/catkin_ws/devel/.private/robot_gui_bridge/share/robot_gui_bridge/cmake/robot_gui_bridgeConfig.cmake

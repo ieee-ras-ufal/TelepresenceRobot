@@ -1,0 +1,1 @@
+/home/andressa/robotica/TelepresenceRobot/ROS/catkin_ws/devel/./cmake.lock 1

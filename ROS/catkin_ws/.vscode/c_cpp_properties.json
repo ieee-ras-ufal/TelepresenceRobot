@@ -1,0 +1,30 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/home/andressa/turtlebot_ws/devel/include/**",
+        "/opt/ros/melodic/include/**",
+        "/home/andressa/turtlebot_ws/src/depthimage_to_laserscan/include/**",
+        "/home/andressa/turtlebot_ws/src/kobuki/kobuki_auto_docking/include/**",
+        "/home/andressa/turtlebot_ws/src/kobuki_bumper2pc/include/**",
+        "/home/andressa/turtlebot_ws/src/kobuki/kobuki_controller_tutorial/include/**",
+        "/home/andressa/turtlebot_ws/src/kobuki_desktop/kobuki_gazebo_plugins/include/**",
+        "/home/andressa/turtlebot_ws/src/kobuki_keyop/include/**",
+        "/home/andressa/turtlebot_ws/src/kobuki_node/include/**",
+        "/home/andressa/turtlebot_ws/src/kobuki/kobuki_random_walker/include/**",
+        "/home/andressa/turtlebot_ws/src/kobuki_safety_controller/include/**",
+        "/home/andressa/turtlebot_ws/src/robot_pose_ekf/include/**",
+        "/home/andressa/turtlebot_ws/src/turtlebot_apps/turtlebot_actions/include/**",
+        "/home/andressa/turtlebot_ws/src/yocs_cmd_vel_mux/include/**",
+        "/home/andressa/turtlebot_ws/src/yocs_controllers/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS"
+    }
+  ],
+  "version": 4
+}
